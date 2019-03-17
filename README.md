@@ -1,4 +1,4 @@
-#Color Clicker
+# Color Clicker
 Color Clicker is a browser-based game. The objective is to use your mouse to click the circles that appear on the screen.
 
 Prerequisites
